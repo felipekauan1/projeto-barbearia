@@ -337,11 +337,14 @@ i {
 }
 body {
   font-family: "Sora", sans-serif;
+  background-color: #06121e;
+}
+
+.semi-body {
   width: 100%;
   height: 100vh;
   position: relative;
   overflow-x: hidden;
-  background-color: #06121e;
 }
 
 button {
