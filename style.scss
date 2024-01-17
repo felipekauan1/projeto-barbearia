@@ -13,14 +13,12 @@
 
 body {
     font-family: "Sora", sans-serif;
-    background-color: $primary-normal;
-}
-
-.semi-body {
     width: 100%;
     height: 100vh;
     position: relative;
     overflow-x: hidden;
+
+    background-color: $primary-normal;
 }
 
 button {
